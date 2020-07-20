@@ -1,6 +1,6 @@
 LeetCode
 ========
-语言：C++  
+Language：C++  
   
 
 | # | Title | Difficulty | Evaluation |

@@ -5,4 +5,4 @@ LeetCode
 
 | # | Title | Difficulty | Evaluation |
 |:-:| :---: | :--------: | :--------: |
-|94|[Binary Tree Inorder Traversal](./solution/094_Binary%20Tree%20Inorder%20Traversal_Medium.cpp/)|Medium|&hearts;|
+|94|[Binary Tree Inorder Traversal](./solution/94.Binary-Tree-Inorder-Traversal.md/)|Medium|&hearts;|
